@@ -1,0 +1,221 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* LeavesAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 570}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 636}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Leaves */ = {
+		activeExec = 0;
+		executables = (
+			69818E5113312FCE007BF499 /* Leaves */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 69818E5113312FCE007BF499 /* Leaves */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Leaves */;
+		codeSenseManager = 69818E7B13312FE5007BF499 /* Code sense */;
+		executables = (
+			69818E5113312FCE007BF499 /* Leaves */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321997504;
+			PBXWorkspaceStateSaveDate = 321997504;
+		};
+		perUserProjectItems = {
+			697A704E13313B510091097F /* PBXTextBookmark */ = 697A704E13313B510091097F /* PBXTextBookmark */;
+			697A70C4133158190091097F /* PBXTextBookmark */ = 697A70C4133158190091097F /* PBXTextBookmark */;
+			69818E6913312FE5007BF499 /* PBXBookmark */ = 69818E6913312FE5007BF499 /* PBXBookmark */;
+			69818E6A13312FE5007BF499 /* PBXBookmark */ = 69818E6A13312FE5007BF499 /* PBXBookmark */;
+			69818E6B13312FE5007BF499 /* PBXTextBookmark */ = 69818E6B13312FE5007BF499 /* PBXTextBookmark */;
+			69818EA1133133C8007BF499 /* PBXTextBookmark */ = 69818EA1133133C8007BF499 /* PBXTextBookmark */;
+			69818EA2133133C8007BF499 /* PBXTextBookmark */ = 69818EA2133133C8007BF499 /* PBXTextBookmark */;
+			69818EA3133133C8007BF499 /* PBXTextBookmark */ = 69818EA3133133C8007BF499 /* PBXTextBookmark */;
+			69818ED713313752007BF499 /* PBXTextBookmark */ = 69818ED713313752007BF499 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 69818E7A13312FE5007BF499 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	697A704E13313B510091097F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D33D4B50117C473500BA7203 /* PDFExampleViewController.m */;
+		name = "PDFExampleViewController.m: 78";
+		rLen = 2;
+		rLoc = 2544;
+		rType = 0;
+		vrLen = 949;
+		vrLoc = 2859;
+	};
+	697A70C4133158190091097F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D33D4B50117C473500BA7203 /* PDFExampleViewController.m */;
+		name = "PDFExampleViewController.m: 157";
+		rLen = 0;
+		rLoc = 5098;
+		rType = 0;
+		vrLen = 685;
+		vrLoc = 4420;
+	};
+	69818E5113312FCE007BF499 /* Leaves */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Leaves;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	69818E6913312FE5007BF499 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D33D4EC6117D8D4500BA7203 /* kitten2.jpg */;
+	};
+	69818E6A13312FE5007BF499 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D33D4EC5117D8D4500BA7203 /* kitten.jpg */;
+	};
+	69818E6B13312FE5007BF499 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D33D4E57117D818100BA7203 /* LeavesView.h */;
+		name = "LeavesView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 334;
+		vrLoc = 0;
+	};
+	69818E7A13312FE5007BF499 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	69818E7B13312FE5007BF499 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	69818EA1133133C8007BF499 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D33D4E59117D818100BA7203 /* LeavesViewController.h */;
+		name = "LeavesViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 354;
+		vrLoc = 0;
+	};
+	69818EA2133133C8007BF499 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D33D4E5A117D818100BA7203 /* LeavesViewController.m */;
+		name = "LeavesViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 521;
+		vrLoc = 0;
+	};
+	69818EA3133133C8007BF499 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* LeavesAppDelegate.m */;
+		name = "LeavesAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 636;
+		vrLoc = 0;
+	};
+	69818ED713313752007BF499 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D33D4B4F117C473500BA7203 /* PDFExampleViewController.h */;
+		name = "PDFExampleViewController.h: 11";
+		rLen = 0;
+		rLoc = 252;
+		rType = 0;
+		vrLen = 435;
+		vrLoc = 0;
+	};
+	D33D4B4F117C473500BA7203 /* PDFExampleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 484}}";
+			sepNavSelRange = "{252, 0}";
+			sepNavVisRange = "{0, 435}";
+		};
+	};
+	D33D4B50117C473500BA7203 /* PDFExampleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1248, 3023}}";
+			sepNavSelRange = "{5098, 0}";
+			sepNavVisRange = "{4420, 685}";
+		};
+	};
+	D33D4E57117D818100BA7203 /* LeavesView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 2109}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 334}";
+		};
+	};
+	D33D4E59117D818100BA7203 /* LeavesViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 417}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 354}";
+		};
+	};
+	D33D4E5A117D818100BA7203 /* LeavesViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1140, 1767}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 521}";
+		};
+	};
+}
