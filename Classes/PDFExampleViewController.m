@@ -102,7 +102,7 @@
 	myPageRef = CGPDFDocumentGetPage(myDocumentRef, leavesView.currentPageIndex+1);
 	CGRect pageRect = CGRectIntegral(CGPDFPageGetBoxRect(myPageRef, kCGPDFCropBox));
 	
-	CATiledLayer *tiledLayer = [CATiledLayer layer];
+	tiledLayer = [CATiledLayer layer];
 	tiledLayer.delegate = self;
 	tiledLayer.tileSize = CGSizeMake(1024.0, 1024.0);
 	tiledLayer.levelsOfDetail = 1000;
